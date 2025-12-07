@@ -1,44 +1,76 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# 🌐 Dina Samy — Personal Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Welcome to my personal portfolio!  
+This website highlights my journey as a **CS student**, **Full-Stack Developer**, **Technical Ambassador**, and an active member in tech communities.  
+It showcases my skills, projects, education, experience, and achievements — all in a clean, modern, interactive UI.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+---
 
-# Features
+## ✨ About Me
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+I'm **Dina Samy**, a third-year Computer Science student at **Suez Canal University**, passionate about:
 
-# Getting Started Locally
+- Full-Stack Development (MEAN + .NET)
+- Competitive Programming (ICPC • ECPCQ • Codeforces Rating: 990)
+- Data Structures & Algorithms
+- Team leadership and student activities
+- Building scalable, user-focused applications  
 
-1. Clone this repository to your local machine:
+Currently, I am:
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+- 👩‍💻 **Full-Stack Trainee @ NTI**  
+- 🧑‍🏫 **Technical Ambassador @ ITI**  
+- 🧡 **Head of HR @ Mesh Hakers**  
+- 🤝 **Vice HR @ ICPC SC Team (Level 2 Training)**  
 
-2. Move to the cloned directory
+I have completed several trainings including **.NET Web Development**, **CS50**, and a **Networking Internship** at the Suez Canal Authority.
 
-   ```bash
-   cd portfolio
-   ```
+---
 
-3. Install dependencies:
+## 🎨 Portfolio Features
 
-   ```bash
-   pnpm install
-   ```
+- 🖥️ Modern, responsive UI  
+- ⚡ Built with **Next.js + Tailwind CSS + shadcn/ui**  
+- 🎞️ Smooth animations with Framer Motion  
+- 📁 Dynamic sections powered by a central `DATA` object  
+- 💼 Organized pages for About, Skills, Projects, Certifications, Experience  
+- 🔗 Integrated GitHub, LinkedIn, and YouTube profiles  
+- 🖼️ Support for project images, videos, and live links  
 
-4. Start the local Server:
+---
 
-   ```bash
-   pnpm dev
-   ```
+## 🛠️ Tech Stack
+
+This portfolio is built using:
+
+- **Next.js**  
+- **React.js**  
+- **TypeScript**  
+- **Tailwind CSS**  
+- **shadcn/ui**  
+- **Framer Motion**  
+- **Git & GitHub**  
+
+---
+
+## 📌 Data Structure (DATA Object)
+
+All content is structured inside a single dynamic data file containing:
+
+- Personal Info  
+- Contact & Social Links  
+- Skills  
+- Work Experience  
+- Education  
+- Certifications & Licenses  
+- Featured Projects  
+
+This makes the whole portfolio easy to update and maintain.
+
+---
+
+## 📂 Folder Structure
+
 
 5. Open the [Config file](./src/data/resume.tsx) and make changes
 
