@@ -68,12 +68,3 @@ All content is structured inside a single dynamic data file containing:
 This makes the whole portfolio easy to update and maintain.
 
 ---
-
-## 📂 Folder Structure
-
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
