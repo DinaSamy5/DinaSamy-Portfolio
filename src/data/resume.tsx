@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Dina Samy",
   initials: "DV",
-  url: "https://dina.io",
+  url: "https://dina-samy-portfolio-wwcl.vercel.app/",
   location: "Ismailia, Egypt",
   locationLink: "https://www.google.com/maps/place/Ismailia",
   description:
